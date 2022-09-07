@@ -1,6 +1,6 @@
 # operating system
 
-[![operating system](get-detail.png)](https://computersolve.com/operating-system/)
+[![operating system](get-detail.png)](https://icncomputer.com/operating-system/)
 
 An operating system is the most important software that runs on a computer. It manages the computer's memory and processes, as well as all of its software and hardware. It also allows you to communicate with the computer without knowing how to speak the computer's language. Without an operating system, a computer is useless.
 
